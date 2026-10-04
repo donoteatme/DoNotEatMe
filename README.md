@@ -1,9 +1,10 @@
-Hi, I'm Igor. Nice to meet you here.
+# Hi, I'm Igor
 
-Since 2017, I've been working in the gaming industry. I started in customer support and eventually progressed to the position of team lead in marketing. Most of my work has revolved around the publishing of PC/Console games, giving me diverse experience in both social and technical aspects of publishing.
+I'm an Unreal Engine C++ developer and a lifelong gamer. I moved into development in 2023 and have been working full-time as a developer since 2024.
 
-In 2023, I made the decision to transition my career to become a UE C++ developer, a dream I've had since I was younger. Today I'm working as a fulltime Unreal Engine developer.
+Before that, I spent several years in PC and console game publishing, working in marketing and eventually leading a marketing team. My work covered user acquisition, product and marketing analytics, and release management.
 
+You can read more about my experience and projects on [Linkin Games](https://linkin.games/en/).
 
 ![](https://hit.yhype.me/github/profile?user_id=12993928)
 <!--
